@@ -5,7 +5,8 @@
     "description": "Nepali to English dictionary",
 
     "permissions" : [
-        "contextMenus"
+        "contextMenus",
+        "storage"
     ],
 
     "background": {
